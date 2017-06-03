@@ -50,7 +50,7 @@ This is **an important signal** that the blockchain world is transforming into a
 
 > In the future, **Bitcoin Dominance** will continuously drop, and even drop to less than 5%...
 
-## 7. What we did in the past?
+## 7. What have we done in the past?
 
 I'm a large bitcoin holder. Since I take BTC as the stock of a world bank, it's quite natural for me to spend as less BTC as possible.
 
