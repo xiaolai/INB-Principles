@@ -54,7 +54,7 @@ This is **an important signal** that the blockchain world is transforming into a
 
 I'm a large bitcoin holder. Since I take BTC as the stock of a world bank, it's quite natural for me to spend as less BTC as possible.
 
-Before 2013, we invested [Bitshares](https://bitshares.org/), [yunbi.com](https://yunbi.com) and I have been personally maintaining [bitcoinsand.com](http://bitcoinsand.com), a bitcoin bank, for years. Since the last quarter of 2015, my team and I started to invest in MBAs in batch, yet with a rigorous set of principles. We have invested *[Sia](http://sia.tech/)*, *[Steem](https://steemit.com/)*, *[Zcash](https://z.cash/)*, *[QTUM](https://qtum.org/en/)*, *[EOS](https://bitcointalk.org/index.php?topic=1904415.0)* and numerous others. Often, we invest both in equities of the startups and the blockchain assets they issue. We are actively participating ICOs around the world.
+Before 2014, we invested [Bitshares](https://bitshares.org/), [yunbi.com](https://yunbi.com) and I have been personally maintaining [bitcoinsand.com](http://bitcoinsand.com), a bitcoin bank, for years. Since the last quarter of 2015, my team and I started to invest in MBAs in batch, yet with a rigorous set of principles. We have invested *[Sia](http://sia.tech/)*, *[Steem](https://steemit.com/)*, *[Zcash](https://z.cash/)*, *[QTUM](https://qtum.org/en/)*, *[EOS](https://bitcointalk.org/index.php?topic=1904415.0)* and numerous others. Often, we invest both in equities of the startups and the blockchain assets they issue. We are actively participating ICOs around the world.
 
 ## 8. Why do I get the investing principles open-sourced?
 
