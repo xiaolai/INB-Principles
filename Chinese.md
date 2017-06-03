@@ -56,7 +56,7 @@ MBA 是我杜撰的一个缩写，代表 **M**eaningful **B**lockchain **A**ppli
 
 我个人持有很多比特币。既然我认为比特币是这家世界银行的股份，你就很容易理解为什么我尽量不去消耗我的比特币了。
 
-2014 年之前，我投资了比特股，云币网，并且自己长期维护一个项目，比特沙，一个比特币银行。从 2015 年最后一个季度开始，我和我的团队开始批量投资 MBA 项目，不过，我们长期遵守一个相对比较苛刻的投资原则。我们前后投资了 *[Sia](http://sia.tech/)*, *[Steem](https://steemit.com/)*, *[Zcash](https://z.cash/)*, *[QTUM](https://qtum.org/en/)*, *[EOS](https://bitcointalk.org/index.php?topic=1904415.0)* 等许多项目。通常情况下，我们会同时投资创业团队的股权以及他们所发行的区块链资产。目前，我们正在积极参与全球的 ICO 项目。
+2014 年之前，我投资了[比特股](https://bitshares.org/)，[云币网](https://yunbi.com)，并且自己长期维护一个项目，[比特沙](http://bitcoinsand.com)，一个比特币银行。从 2015 年最后一个季度开始，我和我的团队开始批量投资 MBA 项目，不过，我们长期遵守一个相对比较苛刻的投资原则。我们前后投资了 *[Sia](http://sia.tech/)*, *[Steem](https://steemit.com/)*, *[Zcash](https://z.cash/)*, *[QTUM](https://qtum.org/en/)*, *[EOS](https://bitcointalk.org/index.php?topic=1904415.0)* 等许多项目。通常情况下，我们会同时投资创业团队的股权以及他们所发行的区块链资产。目前，我们正在积极参与全球的 ICO 项目。
 
 ## 8. 我为什么有把我们的投资原则开源？
 
