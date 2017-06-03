@@ -2,6 +2,8 @@
 
 *by 李笑来, [INB (inblockchain.com)](http://inblockchain.com)*
 
+[Click here to read in English](README.md)
+
 ## 1. ICO 是什么？
 
 ICO 是 **I**nitial **C**oin **O**ffering 的缩写，是区块链创业公司向公众募集资金的一种方式，有点类似于股票市场上的 IPO。
