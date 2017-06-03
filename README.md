@@ -2,6 +2,9 @@
 
 *by lixiaolai, founder of [INB (inblockchain.com)](http://inblockchain.com)*
 
+[点击这里查看中文版](Chinese.md)
+
+
 ## 1. What is ICO?
 
 **ICO** (**I**nitial **C**oin **O**ffering) is a means for blockchain startups to raise capital from the public that is somehow equivalent to IPO in the stock markets.
