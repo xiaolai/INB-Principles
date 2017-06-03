@@ -75,7 +75,7 @@ Sometimes asking questions is much more effective than describing principles: by
 > - Is decentralization truly needed?
 > - Is an open ledge truly necessary?
 > - Can an open ledge truly boost the efficiency of the business model?
-> - To what extent is it a **[DAC](http://bitsharestalk.org/index.php?topic=297.0)** (Decentralized autonomous corporation)?
+> - To what extent is it a **[DAC](https://www.youtube.com/watch?v=v26zjoNd-Cs)** (Decentralized autonomous corporation)?
 > - If we decide to invest, what percentage of our funding should we use exactly?
 
 That's all, the simplest questions needed tougher thinking to get more accurate and concrete answers.
