@@ -78,6 +78,7 @@ MBA 是我杜撰的一个缩写，代表 **M**eaningful **B**lockchain **A**ppli
 > - 它真的必须账务公开吗？
 > - 账务公开的存在真的会提高它的效率吗？
 > - 它在多大程度上更接近一个 **[DAC](https://www.youtube.com/watch?v=v26zjoNd-Cs)** (Decentralized autonomous corporation， 去中心化自制公司)？
+> - 如果我们决定投资，那么我们应该用我们资金的多大比例去投资？
 
 就这些了。最简单的问题需要最艰难的思考才能找到更准确更实在的答案。
 
