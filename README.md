@@ -1,4 +1,4 @@
-# Blockchain related ICO Investment Principles by INBlockchain
+# Blockchain related ICO Investing Principles by INBlockchain
 
 *by lixiaolai, founder of [INB (inblockchain.com)](http://inblockchain.com)*
 
