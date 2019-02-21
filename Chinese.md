@@ -1,4 +1,4 @@
-# INBlockchain 的开源区块链 ICO 投资原则
+# INBlockchain 的开源区块链投资原则
 
 *by 李笑来, [INB (inblockchain.com)](http://inblockchain.com)*
 
