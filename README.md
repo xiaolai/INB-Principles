@@ -21,7 +21,7 @@ First of all, Bitcoin is the first, most successful **blockchain application**.
 
 Moreover, Bitcoin is a **world bank** that is not run by any authority, but instead by a decentralized network.
 
-In addition, this decentralized world bank, Bitcoin, issued a **currency** that happens to have the exact same name, Bitcoin. Some more people meticulous people are inclined to refer to the currency as BTC, rather than Bitcoin.
+In addition, this decentralized world bank, Bitcoin, issued a **currency** that happens to have the exact same name, Bitcoin. Some are more meticulous so as to refer to the currency as BTC, rather than Bitcoin.
 
 Even seven years after the birth of Bitcoin (2017), few people have realized that BTC could also be thought of as the **stock** of the decentralized world bank, Bitcoin.
 
